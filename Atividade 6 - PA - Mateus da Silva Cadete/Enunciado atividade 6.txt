@@ -1,0 +1,29 @@
+﻿Instruções Iniciais:
+
+- Usar o compilador DevC++ disponibilizado (Área de Arquivos) e usar a linguagem de programação C++;
+- Criar um projeto por exercício, não realizar tudo em um mesmo projeto;
+- Identificar cada arquivo (Ex01, Ex02, ...);
+- Qualquer dúvida me procure para esclarecer.                                                                      
+
+Atividade:
+
+01) Completar o código do Exemplo01_Cadastro em anexo, acrescentando funções para armazenar os dados, juntamente com tratamento de exceções, conforme feito com a primeira variável "nome";
+
+02) Alterar o código do exercício abaixo, feito anteriormente em outra atividade, para que use os conceitos de Função e Tratamento de Erros, conforme orientações e exemplos da aula.
+Deve haver uma função para realizar o cálculo e retornar o valor da multa, possuindo tratamento de erros;
+Crie um código que calcule a multa paga por um pescador que ultrapassar a quantidade de quilos estabelecida por lei.
+A saber:
+A quantidade de peixe por pessoa é 50 kg.
+A multa por quilo excedente é R$4,00.
+
+03) Alterar o código do exercício abaixo, feito anteriormente em outra atividade, para que use os conceitos de Função e Tratamento de Erros, conforme orientações e exemplos da aula.
+Deve haver uma função para realizar o cálculo e retornar o valor do montante, possuindo tratamento de erros;
+Crie um código que controle uma conta poupança que foi aberta com um depósito inicial de R$X,XX. Sendo a remuneração de Y% ao mês de juros. Apresente o saldo após Z meses. Lembrando a fórmula de Juros composto é:
+M = C * pow((1 + i) , t)
+
+Onde M é o montante final, C é o capital investido inicial, i é a taxa de juros e t o tempo de investimento em meses.
+
+
+Após concluir você deve postar na plataforma Microsoft Teams, não esquecendo de clicar em enviar para que a atividade não fique pendente.
+
+Entregar a atividade preferencialmente até 22/10/2021.
