@@ -1,0 +1,3 @@
+C:\Users\Aluno\Desktop\Algoritmo 1\main.cpp	In function 'void iniciarVetor()':
+21	78	C:\Users\Aluno\Desktop\Algoritmo 1\main.cpp	[Error] expected ')' before ';' token
+28		C:\Users\Aluno\Desktop\Algoritmo 1\Makefile.win	recipe for target 'main.o' failed

@@ -1,0 +1,15 @@
+contador	0	1	2	3	4	
+
+cont1 		0	1	2	3	4	
+
+cont2		1	2	3	4	5
+
+auxiliar	5	6	
+
+resultado	5	6	7
+
+numero		7	5	6	9	4
+
+
+
+
