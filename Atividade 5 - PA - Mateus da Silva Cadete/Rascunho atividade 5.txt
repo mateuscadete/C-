@@ -1,0 +1,9 @@
+01) Exibir todos os números pares existentes entre os números 1 e 20, pulando linha.
+
+02) Exibir a tabuada (1 ao 10) do número informado pelo usuário.
+Exemplo o usuário digitou 5...será exibido 1x5=5, 2x5=10 ... 10x5=50.
+
+Após concluir você deve postar na plataforma Microsoft Teams, não esquecendo de clicar em enviar para que a atividade não fique pendente.
+
+Entregar a atividade até no máximo 08/10/2021.
+Materiais de referência
