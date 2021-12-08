@@ -1,0 +1,26 @@
+Converter em código os fluxogramas da atividade 
+
+Atividade 02 - Lista 1 de Fluxogramas
+Usar o compilador DevC++ disponibilizado e usar a linguagem de programação C++ conforme explicado nas aulas.
+Zipar todos os arquivos em uma pasta;
+Identificar cada arquivo;
+
+Após concluir você deve postar na plataforma Microsoft Teams, não esquecendo de clicar em enviar para que a atividade não fique pendente.
+
+Entregar a atividade até 03/09/2021.
+
+================================================================================================================================================================================================================================
+
+01) Crie um algoritmo que receba o nome  do aluno e suas 4 notas bimestrais, calcule e apresente o nome do aluno  e a média anual desse aluno.
+
+02) Crie um algoritmo que controle uma conta poupança que foi aberta com um depósito inicial de R$500,00. Sendo a remuneração de 1% ao mês de juros. Apresente o saldo após três meses. Lembrando a formula de Juros composto é:
+M = C * (1 + i) ^ t
+Onde M é o montante final, C é o capital investido inicial, i é a taxa de juros e t o tempo de investimento em meses.
+
+03) Desenvolva um algoritmo que receba a base e altura de um retângulo, calcule e mostre sua área. (A = b * h)
+
+04) Desenvolva um algoritmo que receba o raio de uma circunferência e exiba o comprimento desta circunferência e a área.  (C = 2 * π * R) (A = π * (R) ^ 2) (π = 3,14)
+
+05) Crie um algoritmo para calcular a área do triângulo, apresente o resultado. (A = b * h) / 2
+
+================================================================================================================================================================================================================================
